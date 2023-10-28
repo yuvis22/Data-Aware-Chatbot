@@ -12,11 +12,15 @@ Follow these steps to set up and run the service :
 
 Clone the repository :
 
-`git clone https://github.com/yvann-hub/Robby-chatbot.git`
+```bash
+git clone https://github.com/yvann-hub/Robby-chatbot.git
+```
 
 Navigate to the project directory :
 
-`cd Robby-chatbot`
+```bash
+cd Robby-chatbot
+```
 
 Create a virtual environment :
 
@@ -27,8 +31,12 @@ python -m venv .venv
 
 Install the required dependencies in the virtual environment :
 
-`pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 
 Launch the chat service locally :
 
-`streamlit run src/Home.py`
+```bash
+streamlit run src/Home.py
+```
