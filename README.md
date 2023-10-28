@@ -4,10 +4,6 @@
 
 ![Robby](robby-pic.png)
 
-## Quick Start 🚀
-
-[![Robby-Chatbot](https://img.shields.io/static/v1?label=Robby-Chatbot&message=Visit%20Website&color=ffffff&labelColor=ADD8E6&style=for-the-badge)]
-
 ## Running Locally 💻
 
 Follow these steps to set up and run the service :
