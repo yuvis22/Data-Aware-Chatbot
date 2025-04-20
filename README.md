@@ -13,7 +13,7 @@ Follow these steps to set up and run the service :
 Clone the repository :
 
 ```bash
-git clone https://github.com/yvann-hub/Robby-chatbot.git
+[git clone https://github.com/yuvis22/Data-Aware-Chatbot](https://github.com/yuvis22/Data-Aware-Chatbot/)
 ```
 
 Navigate to the project directory :
